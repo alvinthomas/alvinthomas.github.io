@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Alvin G. Thomas</title>
-    <link>https://alvinthomas.github.io/tags/programming/</link>
+    <link>/tags/programming/</link>
     <description>Recent content in Programming on Alvin G. Thomas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>StatSnips</title>
-      <link>https://alvinthomas.github.io/project/statsnips/</link>
+      <link>/project/statsnips/</link>
       <pubDate>Thu, 29 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://alvinthomas.github.io/project/statsnips/</guid>
+      <guid>/project/statsnips/</guid>
       <description></description>
     </item>
     

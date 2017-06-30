@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/project/ergot/</loc>
+      <loc>/project/kidney-space/</loc>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/ergot/</loc>
       <lastmod>2017-06-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +23,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/project/statsnips/</loc>
+      <loc>/project/statsnips/</loc>
       <lastmod>2017-06-29T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +32,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/publication/3-landscape-ldf/</loc>
+      <loc>/publication/3-landscape-ldf/</loc>
       <lastmod>2017-05-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/publication/2-mlake_training/</loc>
+      <loc>/publication/2-mlake_training/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +59,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +68,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/publication/1-geophagia/</loc>
+      <loc>/publication/1-geophagia/</loc>
       <lastmod>2016-11-30T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +77,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/publication_types/2/</loc>
+      <loc>/publication_types/2/</loc>
       <lastmod>2017-05-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -78,8 +87,8 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <loc>/</loc>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -88,7 +97,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -97,7 +106,27 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/tags/other/</loc>
+      <loc>/tags/mhealth/</loc>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/other/</loc>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/programming/</loc>
       <lastmod>2017-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -107,8 +136,8 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/tags/programming/</loc>
-      <lastmod>2017-06-29T00:00:00+00:00</lastmod>
+      <loc>/project/</loc>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -117,17 +146,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/project/</loc>
-      <lastmod>2017-06-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://alvinthomas.github.io/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2017-05-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -137,8 +156,8 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/tags/science/</loc>
-      <lastmod>2017-06-29T00:00:00+00:00</lastmod>
+      <loc>/tags/science/</loc>
+      <lastmod>2017-06-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -147,7 +166,7 @@
     
     <url>
     
-      <loc>https://alvinthomas.github.io/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
