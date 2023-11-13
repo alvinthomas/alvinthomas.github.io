@@ -1,0 +1,94 @@
+# Site settings
+baseURL = "https://alvingthomas.com"
+languageCode = "en-US"
+title = "Alvin G. Thomas, MSPH, PhDc"
+theme = "hugo-split-theme"
+disableKinds = ["page", "section", "taxonomy", "RSS", "sitemap", "robotsTXT"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2023 Alvin G. Thomas"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Alvin G. Thomas"
+  description = "Academic Profile of Alvin G. Thomas, MPSH, PhDc"
+  shareImage = "images/social.jpg"
+  twitterHandle = "alvinthomas13"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/61portrait.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      # file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+        
+      [[params.links.list1.link]]
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/alvinthomas13/"
+
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:alvin@statsnips.com"
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
+
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "https://twitter.com/alvinthomas13"
+
+        
+      [[params.links.list2.link]]
+        text = "Github"
+        url = "https://github.com/alvinthomas"
+
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Academic"
+
+      [[params.links.list3.link]]
+        text = "ORCID"
+        url = "https://orcid.org/0000-0003-4911-8192"
+
+      [[params.links.list3.link]]
+        text = "PubMed"
+        url = "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/50842911/?sort=date&direction=ascending"
+
+      [[params.links.list3.link]]
+        text = "Research Gate"
+        url = "https://www.researchgate.net/profile/Alvin_Thomas7"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
